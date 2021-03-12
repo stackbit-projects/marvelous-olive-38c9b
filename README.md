@@ -45,7 +45,7 @@ You can [create a site](https://app.stackbit.com/create?theme=https://github.com
 
 1. Assign this key to the `STACKBIT_API_KEY` environment variable (replace `{stackbit_api_key}` with the actual key):
 
-        export STACKBIT_API_KEY={stackbit_api_key}
+        export STACKBIT_API_KEY={7d817a5a107e6f4be6d5e50402098857970c8f21eedb5f4187e25f37bc3fceac}
 
 1. Run the following command to fetch the content from Sanity:
 
